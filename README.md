@@ -13,7 +13,7 @@ I recently completed my bachelor's degree in Computer Science at McGill Universi
 
 
 - 💡 Interests: Worldbuilding, Game Dev, Computer Graphics (Shaders, Rendering, 3D Modelling/Texturing), Digital Art (2D/3D)
-- ✍️ Current Projects: running a D&D campaign, a 3D remake of [Threshold]([url](https://ethearian.itch.io/threshold)) in Unreal, and more!
+- ✍️ Current Projects: running a D&D campaign, a 3D remake of [Threshold](https://ethearian.itch.io/threshold) in Unreal, and more!
 - 📄 Skills: C / C++ / C# / Java / Python / Unity / Unreal Engine / GLSL and HLSL / Maya / Blender
 
 
