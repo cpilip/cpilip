@@ -1,6 +1,6 @@
 ## Hello, I'm Christina! 👋
 
-<img src="header.svg">
+[<img align="right" width="35%" src="world.png">](world.png)
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:pilipchristina@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpilip/)
