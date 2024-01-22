@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello, I'm Christina! 👋
 
-<!--
-**cpilip/cpilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="header.svg" width="800" height="400" alt="Click to see the source">
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:pilipchristina@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpilip/)
+[![Itch Badge](https://img.shields.io/badge/itch-%23FF0B34.svg?logo=itch&logoColor=white)](https://ethearian.itch.io/)
+[![Artstation Badge](https://img.shields.io/badge/artstation-%2313AFF0.svg?&logo=artstation&logoColor=white)](https://ethearian.artstation.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for visiting my profile! 🎃
+
+
+I recently completed my bachelor's degree in Computer Science at McGill University. I love building worlds in any form, especially in art and game development.
+
+
+- 💡 Interests: Worldbuilding, Game Dev, Computer Graphics (Shaders, Rendering, 3D Modelling/Texturing), Digital Art (2D/3D)
+- ✍️ Current Projects: running a D&D campaign, a 3D remake of [Threshold]([url](https://ethearian.itch.io/threshold)) in Unreal, and more!
+- 📄 Skills: C / C++ / C# / Java / Python / Unity / Unreal Engine / GLSL and HLSL / Maya / Blender
+
+
