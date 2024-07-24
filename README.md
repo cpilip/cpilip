@@ -6,14 +6,15 @@
 [![Artstation Badge](https://img.shields.io/badge/artstation-%2313AFF0.svg?&logo=artstation&logoColor=white)](https://ethearian.artstation.com)
 
 
-Thanks for visiting my profile! 🎃
+Thanks for visiting my profile!
 
 
-I recently completed my bachelor's degree in Computer Science at McGill University. I love building worlds in any form, especially in art and game development.
+I recently completed my bachelor's degree in Computer Science at McGill University. I love building worlds in any form, especially in game development.
 
 
-- 💡 Interests: Worldbuilding, Game Dev, Computer Graphics (Shaders, Rendering, 3D Modelling/Texturing), Digital Art (2D/3D)
+- 💡 Interests: Worldbuilding, Game Dev, Computer Graphics (Frameworks, Shaders, Rendering, 3D Modelling/Texturing), Technical Art
 - ✍️ Current Projects: running a D&D campaign, a 3D remake of [Threshold](https://ethearian.itch.io/threshold) in Unreal, expanding my raytracer from COMP 557 (Computer Graphics), and more!
-- 📄 Skills: C / C++ / C# / Java / Python / Unity / Unreal Engine / GLSL and HLSL / Maya / Blender
+- 📄 Skills: C / C++ / C# / Java / Python / Unity / Unreal Engine / GLSL and HLSL / OpenGL / Maya / Blender
+- 📖 Currently Learning: DirectX11
 
 
