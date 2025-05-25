@@ -2,9 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:pilipchristina@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpilip/)
-[![Itch Badge](https://img.shields.io/badge/itch-%23FF0B34.svg?logo=itch&logoColor=white)](https://ethearian.itch.io/)
-[![Artstation Badge](https://img.shields.io/badge/artstation-%2313AFF0.svg?&logo=artstation&logoColor=white)](https://ethearian.artstation.com)
-
 
 Thanks for visiting my profile!
 
