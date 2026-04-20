@@ -5,7 +5,7 @@
 
 Thanks for visiting my profile!
 
-I'm a graduate student pursuing a Master of Science in Interactive Entertainment at the Florida Interactive Entertainment Academy (Florida Interactive Entertainment Academy), part of the University of Central Florida. I previously completed my Bachelor's degree in Computer Science at McGill University.
+I'm a graduate student pursuing a Master of Science in Interactive Entertainment at the Florida Interactive Entertainment Academy (FIEA), part of the University of Central Florida. I previously completed my Bachelor's degree in Computer Science at McGill University.
 
 I'm a software engineer and researcher who's intensely passionate about the tech, philosophy, engineering, and architecture behind virtual worlds and spaces. 
 
