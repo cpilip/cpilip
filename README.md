@@ -5,13 +5,15 @@
 
 Thanks for visiting my profile!
 
+I'm a graduate student pursuing a Master of Science in Interactive Entertainment at the Florida Interactive Entertainment Academy (Florida Interactive Entertainment Academy), part of the University of Central Florida. I previously completed my Bachelor's degree in Computer Science at McGill University.
 
-I recently completed my bachelor's degree in Computer Science at McGill University. I love building worlds in any form, especially in game development.
+I'm a software engineer and researcher who's intensely passionate about the tech, philosophy, engineering, and architecture behind virtual worlds and spaces. 
 
+My programming interests are in real-time graphics/rendering, tool development, and engine programming.
 
-- 💡 Interests: Worldbuilding, Game Dev, Computer Graphics (Frameworks, Shaders, Rendering, 3D Modelling/Texturing), Technical Art
-- ✍️ Current Projects: running a D&D campaign, expanding my raytracer from COMP 557 (Computer Graphics), and more!
+- 💡 Interests: Worldbuilding, Game Dev, Computer Graphics (Frameworks, Shaders, Rendering, 3D Modelling/Texturing), Tools, Game Engines, Technical Art
+- ✍️ Current Projects: Building a custom C++ game engine (rendering pipeline, content system, tooling), expanding a raytracer (COMP 557 – Computer Graphics), developing gameplay + systems through a D&D campaign
 - 📄 Skills: C / C++ / C# / Java / Python / Unity / Unreal Engine / GLSL and HLSL / OpenGL / Maya / Blender
-- 📖 Currently Learning: DirectX11
+- 📖 Currently Learning: DirectX11, Vulkan
 
 
