@@ -13,7 +13,7 @@ My programming interests are in real-time graphics/rendering, tool development, 
 
 - Interests: Worldbuilding, Game Dev, Computer Graphics (Frameworks, Shaders, Rendering, 3D Modelling/Texturing), Tools, Game Engines
 - Current Projects: Building a custom C++ game engine (rendering pipeline, content system), expanding a raytracer (COMP 557 - Computer Graphics), running a D&D campaign!
-- Skills: C++ / C / C# / / Python / Unity / Unreal Engine / GLSL and HLSL / OpenGL / Maya / Blender
+- Skills: C++, C, C#, Python, Unity, Unreal Engine, GLSL and HLSL, OpenGL, Maya, Blender
 - Currently Learning: DirectX11, Vulkan
 
 
